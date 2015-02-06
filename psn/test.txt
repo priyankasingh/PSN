@@ -1,0 +1,5 @@
+<337><32><XML Processing in Python> . 
+<469><5><How can I find the full path to a font from its display name on a Mac?> . 
+<502><15><Get a preview JPEG of a PDF on Windows?> . 
+<535><27><Continuous Integration System for a Python Codebase> . 
+<594><9><cx_Oracle - what is the best way to iterate over a result set?> . 
